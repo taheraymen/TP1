@@ -6,4 +6,8 @@ public class Etudiant {
 		System.out.println("info branch master");
 	}
 	
+	public static void diplayInfoAymen() {
+		System.out.println("info branch Aymen");
+	}
+	
 }
