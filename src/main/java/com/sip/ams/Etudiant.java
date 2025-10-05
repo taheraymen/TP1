@@ -10,4 +10,9 @@ public class Etudiant {
 		System.out.println("info branch Aymen");
 	}
 	
+	public static void diplayInfoTaher() {
+		System.out.println("info branch Taher");
+
+	}
+	
 }
